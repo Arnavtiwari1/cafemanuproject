@@ -1,0 +1,82 @@
+body {
+    background-image: url(img/coffee-beans-5289005.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.container {
+    background-color: rgb(247, 147, 76);
+    margin-top: 50px;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 5px;
+    
+}
+
+#header {
+    text-align: center;
+}
+
+#p1 {
+    font-style: italic;
+}
+
+img {
+    width: 30px;
+}
+
+hr {
+margin-left: 7%;
+margin-right: 7%;
+border: none;               
+border-top: 3px solid rgb(168, 3, 3);
+}
+div p {
+    margin-left: 7%;
+}
+
+#spn {
+    margin-left: 59%;
+}
+
+#sp1 {
+    margin-left: 50%;
+}
+
+#sp2 {
+    margin-left: 58%;
+}
+
+#sp3 {
+    margin-left: 68%;
+}
+
+#sp4 {
+    margin-left: 72%;
+}
+
+#sp5 {
+    margin-left: 73%;
+}
+
+#sp6 {
+    margin-left: 65%;
+}
+
+#sp7 {
+    margin-left: 63.5%;
+}
+
+#sp8 {
+    margin-left: 57%;
+}
+
+.footer {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+a {
+    color: black;
+}
